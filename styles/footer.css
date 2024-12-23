@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    margin-top: 10rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer .pays-footer{
+    padding-left: 5rem;
+}
+
+footer .logo-footer{
+  margin-left: 21rem;
+}
+
+footer .menu-footer{
+    display: flex;
+    flex-direction: row;
+    gap: 2.5rem;
+    padding-right: 5rem;
+}
