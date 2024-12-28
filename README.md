@@ -1,0 +1,5 @@
+-   responsive à améliorer
+-   effet sur le caroussel à régler (overflow:hidden -> place à trouver)
+-   bouton (cat) à gérer + css
+-   vidéo header à régler
+-   txt miniphone à positionner
